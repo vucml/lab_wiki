@@ -1,0 +1,6 @@
+concept,stopword,target,cos,cond,corrAns
+pepper,is a,seasoning,0.510325295,1,period
+chair,has a,seat,0.470904391,1,period
+trousers,made of,material,0.152470758,2,period
+balloon,a,coniferous,-0.127386972,4,slash
+scooter,a,pan,-0.160004387,4,slash
